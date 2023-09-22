@@ -1,0 +1,1 @@
+# scers - streaming command execution on remote servers
