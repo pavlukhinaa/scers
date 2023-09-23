@@ -1,4 +1,4 @@
-module github.com/pavand/ssh/scers
+module github.com/pavlukhinaa/scers
 
 go 1.20
 
